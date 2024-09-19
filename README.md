@@ -53,3 +53,6 @@ Sonuçlar
 
     Tehlikeli vs Tehlikesiz Dağılımı: Veriseti oldukça dengesizdi, ancak SMOTE kullanılarak denge sağlandı ve model performansı iyileştirildi.
     Karar Ağacı Sınıflandırıcı en iyi performans gösteren model olarak seçildi ve çapraz doğrulama setinde %94.46, test setinde %95 doğruluk elde etti.
+
+
+Kaggle linki: https://www.kaggle.com/code/throwaway6789/notebook4975095c00
